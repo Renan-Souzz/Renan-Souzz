@@ -14,7 +14,7 @@ Atualmente: Freelancer em busca de uma oportunidade de um Job.</p>::blue_heart:
 
 Aparentemente a parte básica já se foi. Durante muito tempo estudei Programação como autodidata e sempre adorei esse mundo da tecnologia ::man_technologist: , games::video_game: etc. 
 
-Infelizmente durante a quarentena perdi meu emprego que não tinha relação nenhuma com programação(diga-se de passagem). Mas depois de tanto flertar dediquei todo o meu tempo em estudar e me aprofundar em assuntos mais sérios. Perdi o contato básico e me aprofundei cada vez mais. No momento tenho uma paixão JAVASCRIPT::yellow_heart: e todo o seu ecossistema .
+Depois de tanto flertar dediquei todo o meu tempo em estudar e me aprofundar em assuntos mais sérios. Perdi o contato básico e me aprofundei cada vez mais. No momento tenho uma paixão JAVASCRIPT:yellow_heart: e todo o seu ecossistema .
 
 Gastei boa parte do meu tempo e esforço em cada projeto aqui. Desde os mais simples até alguns mais complexos, então analisa com carinho e críticas e dicas sempre são bem vindas.
 
