@@ -1,6 +1,6 @@
 <strong>Oi eu sou Renan Souza</strong> ::boy:
 
-<p>Vou fazer brem breve resumo sobre mim antes de ir pra parte que importa::bookmark_tabs:​<br></p> 
+<p>Vou fazer um breve resumo sobre mim antes de ir pra parte que importa::bookmark_tabs:​<br></p> 
 
 :bookmark_tabs:
 
